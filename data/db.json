@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "title": "Google Pixel Slate 12.3-Inch 2 in 1 Laptop Intel Core m3, 8GB RAM, 64GB, Aspect Ratio 3:2",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg",
+      "id": 1
+    },
+    {
+      "title": "bvbkkjjkjj",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg",
+      "id": 2
+    },
+    {
+      "title": "bvb",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg",
+      "id": 3
+    },
+    {
+      "title": "Gurmeet Laptop",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg",
+      "id": 4
+    }
+  ]
+}
